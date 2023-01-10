@@ -24,7 +24,7 @@ SELECT * FROM fnEmployeesByIDNameOrSurname (null ,'Hugo', null) --you need to sp
 --id 3 and 5
 SELECT * FROM Employees
 
---
+--how to connect with some console app?---
 
 --what to add next
 
